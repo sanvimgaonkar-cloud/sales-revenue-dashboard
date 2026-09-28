@@ -1,0 +1,721 @@
+Date,Product,Region,Channel,Units,Category,Revenue
+2025-01-01 00:00:00.000000000,Laptop Pro,North,Online,12,Computers,13221.26
+2025-01-01 18:11:30.959666203,Printer,South,Retail,4,Office,1114.75
+2025-01-02 12:23:01.919332406,Tablet,North,Retail,2,Computers,859.28
+2025-01-03 06:34:32.878998609,Laptop Pro,South,Online,4,Computers,3467.45
+2025-01-04 00:46:03.838664812,Phone,North,Retail,13,Mobile,8584.21
+2025-01-04 18:57:34.798331015,Keyboard,North,Retail,5,Accessories,282.93
+2025-01-05 13:09:05.757997218,Keyboard,South,Partner,12,Accessories,625.39
+2025-01-06 07:20:36.717663421,Monitor 27,South,Retail,7,Computers,2165.93
+2025-01-07 01:32:07.677329624,Mouse,West,Retail,6,Accessories,172.63
+2025-01-07 19:43:38.636995827,Monitor 27,East,Partner,6,Computers,1689.36
+2025-01-08 13:55:09.596662030,Mouse,South,Online,5,Accessories,182.5
+2025-01-09 08:06:40.556328233,Docking Station,North,Online,12,Accessories,2248.73
+2025-01-10 02:18:11.515994436,Headset,East,Online,9,Accessories,643.62
+2025-01-10 20:29:42.475660639,Phone,South,Online,3,Mobile,1586.07
+2025-01-11 14:41:13.435326842,Headset,South,Online,13,Accessories,1090.38
+2025-01-12 08:52:44.394993046,Keyboard,East,Retail,6,Accessories,401.78
+2025-01-13 03:04:15.354659249,Webcam,South,Retail,1,Accessories,61.71
+2025-01-13 21:15:46.314325452,Docking Station,East,Partner,4,Accessories,657.3
+2025-01-14 15:27:17.273991655,Docking Station,West,Partner,13,Accessories,1956.55
+2025-01-15 09:38:48.233657858,Docking Station,East,Partner,13,Accessories,2056.57
+2025-01-16 03:50:19.193324061,Laptop Pro,West,Retail,4,Computers,3317.3
+2025-01-16 22:01:50.152990264,Tablet,South,Partner,7,Computers,3780.04
+2025-01-17 16:13:21.112656467,Keyboard,South,Partner,8,Accessories,466.14
+2025-01-18 10:24:52.072322670,Keyboard,South,Retail,8,Accessories,398.24
+2025-01-19 04:36:23.031988873,Keyboard,North,Partner,9,Accessories,561.84
+2025-01-19 22:47:53.991655076,Docking Station,North,Retail,13,Accessories,1898.43
+2025-01-20 16:59:24.951321279,Webcam,North,Retail,4,Accessories,306.24
+2025-01-21 11:10:55.910987482,Keyboard,East,Online,9,Accessories,445.1
+2025-01-22 05:22:26.870653685,Headset,East,Partner,4,Accessories,329.76
+2025-01-22 23:33:57.830319888,Webcam,South,Partner,7,Accessories,514.63
+2025-01-23 17:45:28.789986092,Monitor 27,East,Online,8,Computers,2321.43
+2025-01-24 11:56:59.749652295,Printer,South,Retail,5,Office,1145.75
+2025-01-25 06:08:30.709318498,Headset,North,Retail,6,Accessories,489.83
+2025-01-26 00:20:01.668984701,Phone,West,Retail,11,Mobile,7264.98
+2025-01-26 18:31:32.628650904,Webcam,South,Retail,9,Accessories,727.41
+2025-01-27 12:43:03.588317107,Keyboard,North,Partner,6,Accessories,415.6
+2025-01-28 06:54:34.547983310,Docking Station,North,Online,5,Accessories,719.42
+2025-01-29 01:06:05.507649513,Webcam,West,Partner,10,Accessories,712.1
+2025-01-29 19:17:36.467315716,Keyboard,East,Retail,5,Accessories,294.31
+2025-01-30 13:29:07.426981919,Tablet,East,Online,3,Computers,1297.99
+2025-01-31 07:40:38.386648122,Webcam,South,Online,2,Accessories,148.78
+2025-02-01 01:52:09.346314325,Keyboard,East,Online,1,Accessories,67.55
+2025-02-01 20:03:40.305980528,Keyboard,South,Online,6,Accessories,384.97
+2025-02-02 14:15:11.265646731,Monitor 27,South,Online,5,Computers,1405.99
+2025-02-03 08:26:42.225312935,Laptop Pro,North,Retail,13,Computers,13967.75
+2025-02-04 02:38:13.184979138,Headset,East,Partner,10,Accessories,922.63
+2025-02-04 20:49:44.144645341,Laptop Pro,East,Online,9,Computers,8215.95
+2025-02-05 15:01:15.104311544,Tablet,West,Online,13,Computers,6491.48
+2025-02-06 09:12:46.063977747,Headset,East,Partner,1,Accessories,91.82
+2025-02-07 03:24:17.023643950,Monitor 27,North,Retail,3,Computers,1006.79
+2025-02-07 21:35:47.983310153,Mouse,South,Partner,8,Accessories,268.12
+2025-02-08 15:47:18.942976356,Laptop Pro,North,Retail,11,Computers,8995.11
+2025-02-09 09:58:49.902642559,Monitor 27,South,Partner,5,Computers,1640.22
+2025-02-10 04:10:20.862308762,Headset,South,Online,8,Accessories,691.99
+2025-02-10 22:21:51.821974965,Laptop Pro,West,Partner,6,Computers,5861.31
+2025-02-11 16:33:22.781641168,Webcam,North,Retail,7,Accessories,547.91
+2025-02-12 10:44:53.741307371,Keyboard,East,Online,13,Accessories,882.81
+2025-02-13 04:56:24.700973574,Phone,West,Retail,12,Mobile,7724.4
+2025-02-13 23:07:55.660639777,Monitor 27,South,Retail,9,Computers,3034.98
+2025-02-14 17:19:26.620305980,Printer,West,Retail,8,Office,2047.21
+2025-02-15 11:30:57.579972184,Tablet,South,Online,7,Computers,3365.6
+2025-02-16 05:42:28.539638387,Phone,North,Partner,8,Mobile,5113.02
+2025-02-16 23:53:59.499304590,Printer,East,Online,3,Office,731.56
+2025-02-17 18:05:30.458970793,Docking Station,South,Partner,1,Accessories,160.27
+2025-02-18 12:17:01.418636996,Headset,North,Partner,4,Accessories,323.81
+2025-02-19 06:28:32.378303199,Keyboard,South,Online,9,Accessories,580.18
+2025-02-20 00:40:03.337969402,Monitor 27,South,Partner,6,Computers,1579.76
+2025-02-20 18:51:34.297635605,Docking Station,West,Retail,11,Accessories,1733.65
+2025-02-21 13:03:05.257301808,Keyboard,West,Retail,6,Accessories,365.83
+2025-02-22 07:14:36.216968011,Webcam,South,Online,8,Accessories,628.56
+2025-02-23 01:26:07.176634214,Tablet,East,Retail,8,Computers,3714.23
+2025-02-23 19:37:38.136300417,Keyboard,South,Partner,11,Accessories,649.13
+2025-02-24 13:49:09.095966620,Headset,West,Retail,9,Accessories,765.43
+2025-02-25 08:00:40.055632824,Webcam,East,Retail,8,Accessories,637.07
+2025-02-26 02:12:11.015299027,Headset,North,Partner,9,Accessories,819.75
+2025-02-26 20:23:41.974965230,Docking Station,West,Retail,10,Accessories,1596.71
+2025-02-27 14:35:12.934631433,Phone,East,Partner,1,Mobile,568.88
+2025-02-28 08:46:43.894297636,Keyboard,West,Partner,4,Accessories,281.5
+2025-03-01 02:58:14.853963839,Tablet,East,Partner,12,Computers,5506.49
+2025-03-01 21:09:45.813630042,Tablet,East,Retail,2,Computers,909.62
+2025-03-02 15:21:16.773296245,Tablet,South,Partner,3,Computers,1366.36
+2025-03-03 09:32:47.732962448,Laptop Pro,South,Partner,8,Computers,6679.4
+2025-03-04 03:44:18.692628651,Mouse,South,Partner,12,Accessories,420.67
+2025-03-04 21:55:49.652294854,Tablet,North,Retail,10,Computers,4207.59
+2025-03-05 16:07:20.611961057,Phone,East,Online,4,Mobile,2268.32
+2025-03-06 10:18:51.571627260,Keyboard,South,Retail,8,Accessories,523.91
+2025-03-07 04:30:22.531293463,Printer,West,Retail,10,Office,2091.26
+2025-03-07 22:41:53.490959666,Webcam,East,Online,3,Accessories,175.9
+2025-03-08 16:53:24.450625870,Phone,South,Online,9,Mobile,6377.41
+2025-03-09 11:04:55.410292073,Monitor 27,West,Partner,11,Computers,3000.02
+2025-03-10 05:16:26.369958276,Printer,South,Retail,6,Office,1235.62
+2025-03-10 23:27:57.329624479,Mouse,West,Partner,3,Accessories,107.92
+2025-03-11 17:39:28.289290682,Headset,West,Retail,5,Accessories,424.29
+2025-03-12 11:50:59.248956885,Laptop Pro,West,Online,6,Computers,5226.44
+2025-03-13 06:02:30.208623088,Webcam,West,Partner,1,Accessories,59.29
+2025-03-14 00:14:01.168289291,Laptop Pro,West,Retail,12,Computers,12633.83
+2025-03-14 18:25:32.127955494,Mouse,West,Online,8,Accessories,293.9
+2025-03-15 12:37:03.087621697,Headset,West,Online,3,Accessories,222.37
+2025-03-16 06:48:34.047287900,Printer,North,Retail,13,Office,2883.46
+2025-03-17 01:00:05.006954103,Headset,East,Online,4,Accessories,380.27
+2025-03-17 19:11:35.966620306,Docking Station,East,Partner,13,Accessories,2384.19
+2025-03-18 13:23:06.926286509,Monitor 27,West,Online,13,Computers,4080.76
+2025-03-19 07:34:37.885952712,Keyboard,West,Retail,11,Accessories,585.96
+2025-03-20 01:46:08.845618915,Keyboard,East,Retail,7,Accessories,346.52
+2025-03-20 19:57:39.805285118,Mouse,East,Online,13,Accessories,393.06
+2025-03-21 14:09:10.764951322,Laptop Pro,North,Partner,4,Computers,4283.79
+2025-03-22 08:20:41.724617525,Headset,South,Online,10,Accessories,923.27
+2025-03-23 02:32:12.684283728,Mouse,East,Online,1,Accessories,31.92
+2025-03-23 20:43:43.643949931,Tablet,South,Online,12,Computers,5752.8
+2025-03-24 14:55:14.603616134,Tablet,West,Partner,7,Computers,2926.57
+2025-03-25 09:06:45.563282337,Keyboard,East,Retail,7,Accessories,361.17
+2025-03-26 03:18:16.522948540,Headset,North,Retail,12,Accessories,844.74
+2025-03-26 21:29:47.482614743,Tablet,North,Online,3,Computers,1443.61
+2025-03-27 15:41:18.442280946,Docking Station,East,Partner,4,Accessories,688.92
+2025-03-28 09:52:49.401947149,Laptop Pro,West,Retail,12,Computers,9599.79
+2025-03-29 04:04:20.361613352,Printer,South,Partner,8,Office,1854.88
+2025-03-29 22:15:51.321279555,Laptop Pro,South,Partner,3,Computers,2927.32
+2025-03-30 16:27:22.280945758,Keyboard,South,Partner,1,Accessories,58.44
+2025-03-31 10:38:53.240611961,Headset,North,Partner,1,Accessories,70.9
+2025-04-01 04:50:24.200278164,Docking Station,West,Retail,1,Accessories,151.89
+2025-04-01 23:01:55.159944368,Mouse,East,Retail,1,Accessories,36.35
+2025-04-02 17:13:26.119610571,Headset,South,Online,8,Accessories,609.0
+2025-04-03 11:24:57.079276774,Tablet,West,Partner,13,Computers,6549.05
+2025-04-04 05:36:28.038942977,Webcam,East,Retail,2,Accessories,138.39
+2025-04-04 23:47:58.998609180,Mouse,North,Partner,3,Accessories,111.35
+2025-04-05 17:59:29.958275383,Tablet,South,Retail,13,Computers,6275.78
+2025-04-06 12:11:00.917941586,Docking Station,East,Online,3,Accessories,396.58
+2025-04-07 06:22:31.877607789,Headset,West,Online,9,Accessories,900.19
+2025-04-08 00:34:02.837273992,Phone,East,Partner,11,Mobile,7221.98
+2025-04-08 18:45:33.796940195,Mouse,South,Partner,7,Accessories,203.25
+2025-04-09 12:57:04.756606398,Headset,South,Retail,11,Accessories,877.58
+2025-04-10 07:08:35.716272601,Laptop Pro,North,Online,6,Computers,5092.14
+2025-04-11 01:20:06.675938804,Tablet,North,Online,8,Computers,3875.0
+2025-04-11 19:31:37.635605007,Headset,South,Retail,2,Accessories,171.33
+2025-04-12 13:43:08.595271210,Headset,West,Partner,5,Accessories,403.85
+2025-04-13 07:54:39.554937413,Printer,South,Online,10,Office,2574.04
+2025-04-14 02:06:10.514603616,Tablet,North,Online,6,Computers,3253.93
+2025-04-14 20:17:41.474269820,Phone,West,Retail,13,Mobile,7431.78
+2025-04-15 14:29:12.433936022,Headset,West,Partner,13,Accessories,944.93
+2025-04-16 08:40:43.393602226,Headset,South,Retail,8,Accessories,801.82
+2025-04-17 02:52:14.353268428,Docking Station,South,Retail,10,Accessories,1795.5
+2025-04-17 21:03:45.312934632,Headset,South,Retail,8,Accessories,628.38
+2025-04-18 15:15:16.272600834,Keyboard,North,Retail,10,Accessories,621.9
+2025-04-19 09:26:47.232267038,Tablet,South,Retail,3,Computers,1221.15
+2025-04-20 03:38:18.191933240,Tablet,South,Online,10,Computers,5592.88
+2025-04-20 21:49:49.151599444,Headset,East,Retail,3,Accessories,236.21
+2025-04-21 16:01:20.111265648,Tablet,North,Retail,6,Computers,2645.08
+2025-04-22 10:12:51.070931850,Tablet,South,Online,1,Computers,430.78
+2025-04-23 04:24:22.030598054,Phone,North,Partner,1,Mobile,560.32
+2025-04-23 22:35:52.990264256,Laptop Pro,East,Online,10,Computers,10866.43
+2025-04-24 16:47:23.949930460,Phone,South,Online,6,Mobile,3401.03
+2025-04-25 10:58:54.909596662,Headset,East,Retail,11,Accessories,911.4
+2025-04-26 05:10:25.869262866,Mouse,East,Retail,10,Accessories,351.18
+2025-04-26 23:21:56.828929068,Printer,North,Retail,8,Office,2111.3
+2025-04-27 17:33:27.788595272,Monitor 27,North,Retail,3,Computers,1086.26
+2025-04-28 11:44:58.748261474,Webcam,North,Partner,2,Accessories,160.32
+2025-04-29 05:56:29.707927678,Laptop Pro,West,Retail,2,Computers,1914.76
+2025-04-30 00:08:00.667593880,Headset,East,Online,2,Accessories,182.36
+2025-04-30 18:19:31.627260084,Keyboard,North,Partner,4,Accessories,218.27
+2025-05-01 12:31:02.586926286,Mouse,West,Online,5,Accessories,178.04
+2025-05-02 06:42:33.546592490,Headset,East,Online,9,Accessories,679.57
+2025-05-03 00:54:04.506258694,Laptop Pro,West,Online,9,Computers,7368.9
+2025-05-03 19:05:35.465924896,Docking Station,North,Partner,8,Accessories,1085.1
+2025-05-04 13:17:06.425591100,Webcam,East,Partner,11,Accessories,852.64
+2025-05-05 07:28:37.385257302,Phone,East,Online,10,Mobile,5770.19
+2025-05-06 01:40:08.344923506,Laptop Pro,West,Partner,9,Computers,9884.8
+2025-05-06 19:51:39.304589708,Monitor 27,South,Retail,2,Computers,666.76
+2025-05-07 14:03:10.264255912,Headset,West,Partner,2,Accessories,176.33
+2025-05-08 08:14:41.223922114,Docking Station,North,Partner,8,Accessories,1207.44
+2025-05-09 02:26:12.183588318,Mouse,East,Partner,6,Accessories,201.67
+2025-05-09 20:37:43.143254520,Keyboard,East,Retail,3,Accessories,200.35
+2025-05-10 14:49:14.102920724,Docking Station,East,Partner,2,Accessories,325.6
+2025-05-11 09:00:45.062586926,Laptop Pro,West,Partner,5,Computers,5056.01
+2025-05-12 03:12:16.022253130,Phone,West,Retail,6,Mobile,3757.33
+2025-05-12 21:23:46.981919332,Monitor 27,North,Retail,2,Computers,714.31
+2025-05-13 15:35:17.941585536,Mouse,West,Retail,12,Accessories,414.66
+2025-05-14 09:46:48.901251740,Mouse,South,Partner,10,Accessories,384.94
+2025-05-15 03:58:19.860917942,Docking Station,South,Partner,11,Accessories,1863.82
+2025-05-15 22:09:50.820584146,Docking Station,North,Retail,13,Accessories,2272.31
+2025-05-16 16:21:21.780250348,Mouse,West,Retail,9,Accessories,302.24
+2025-05-17 10:32:52.739916552,Mouse,East,Retail,4,Accessories,131.9
+2025-05-18 04:44:23.699582754,Docking Station,East,Partner,3,Accessories,464.37
+2025-05-18 22:55:54.659248958,Keyboard,North,Online,1,Accessories,50.28
+2025-05-19 17:07:25.618915160,Webcam,North,Online,2,Accessories,118.18
+2025-05-20 11:18:56.578581364,Docking Station,South,Partner,3,Accessories,544.25
+2025-05-21 05:30:27.538247566,Printer,North,Retail,12,Office,3102.37
+2025-05-21 23:41:58.497913770,Webcam,West,Retail,6,Accessories,476.17
+2025-05-22 17:53:29.457579972,Keyboard,West,Retail,7,Accessories,415.6
+2025-05-23 12:05:00.417246176,Tablet,North,Partner,12,Computers,5425.02
+2025-05-24 06:16:31.376912378,Monitor 27,South,Retail,2,Computers,551.54
+2025-05-25 00:28:02.336578582,Laptop Pro,North,Partner,1,Computers,782.11
+2025-05-25 18:39:33.296244784,Headset,West,Retail,12,Accessories,840.8
+2025-05-26 12:51:04.255910988,Keyboard,North,Online,4,Accessories,268.1
+2025-05-27 07:02:35.215577192,Monitor 27,East,Retail,8,Computers,2064.47
+2025-05-28 01:14:06.175243394,Tablet,East,Online,9,Computers,3736.9
+2025-05-28 19:25:37.134909598,Docking Station,West,Retail,13,Accessories,2429.74
+2025-05-29 13:37:08.094575800,Keyboard,South,Online,2,Accessories,102.52
+2025-05-30 07:48:39.054242004,Monitor 27,West,Partner,1,Computers,266.82
+2025-05-31 02:00:10.013908206,Docking Station,South,Online,2,Accessories,362.17
+2025-05-31 20:11:40.973574410,Laptop Pro,North,Online,4,Computers,4288.02
+2025-06-01 14:23:11.933240612,Tablet,West,Online,11,Computers,5535.01
+2025-06-02 08:34:42.892906816,Tablet,West,Online,5,Computers,2418.85
+2025-06-03 02:46:13.852573018,Headset,West,Online,12,Accessories,845.11
+2025-06-03 20:57:44.812239222,Headset,East,Partner,2,Accessories,142.13
+2025-06-04 15:09:15.771905424,Laptop Pro,North,Online,1,Computers,819.16
+2025-06-05 09:20:46.731571628,Docking Station,North,Online,3,Accessories,538.82
+2025-06-06 03:32:17.691237830,Laptop Pro,East,Partner,9,Computers,8721.59
+2025-06-06 21:43:48.650904034,Monitor 27,East,Online,8,Computers,2708.58
+2025-06-07 15:55:19.610570236,Docking Station,North,Retail,3,Accessories,501.27
+2025-06-08 10:06:50.570236440,Mouse,North,Online,5,Accessories,157.8
+2025-06-09 04:18:21.529902644,Headset,East,Retail,10,Accessories,881.39
+2025-06-09 22:29:52.489568846,Printer,South,Retail,7,Office,1425.94
+2025-06-10 16:41:23.449235050,Tablet,West,Partner,7,Computers,3088.54
+2025-06-11 10:52:54.408901252,Phone,East,Retail,2,Mobile,1345.51
+2025-06-12 05:04:25.368567456,Phone,South,Retail,10,Mobile,5791.01
+2025-06-12 23:15:56.328233658,Keyboard,South,Partner,13,Accessories,748.73
+2025-06-13 17:27:27.287899862,Webcam,North,Retail,2,Accessories,130.64
+2025-06-14 11:38:58.247566064,Printer,East,Partner,7,Office,1804.08
+2025-06-15 05:50:29.207232268,Keyboard,West,Partner,3,Accessories,212.15
+2025-06-16 00:02:00.166898470,Monitor 27,West,Retail,5,Computers,1724.86
+2025-06-16 18:13:31.126564674,Docking Station,North,Partner,3,Accessories,398.79
+2025-06-17 12:25:02.086230876,Webcam,East,Retail,7,Accessories,462.49
+2025-06-18 06:36:33.045897080,Mouse,South,Partner,4,Accessories,149.18
+2025-06-19 00:48:04.005563282,Keyboard,North,Online,9,Accessories,535.64
+2025-06-19 18:59:34.965229486,Printer,North,Retail,4,Office,824.8
+2025-06-20 13:11:05.924895690,Keyboard,South,Partner,6,Accessories,415.63
+2025-06-21 07:22:36.884561892,Headset,North,Online,2,Accessories,146.55
+2025-06-22 01:34:07.844228096,Keyboard,South,Online,7,Accessories,436.79
+2025-06-22 19:45:38.803894298,Printer,South,Retail,12,Office,3341.32
+2025-06-23 13:57:09.763560502,Mouse,South,Partner,7,Accessories,219.98
+2025-06-24 08:08:40.723226704,Printer,West,Partner,5,Office,1043.66
+2025-06-25 02:20:11.682892908,Mouse,West,Online,9,Accessories,284.6
+2025-06-25 20:31:42.642559110,Printer,South,Retail,8,Office,2122.73
+2025-06-26 14:43:13.602225314,Printer,South,Retail,4,Office,1058.38
+2025-06-27 08:54:44.561891516,Headset,West,Retail,6,Accessories,594.86
+2025-06-28 03:06:15.521557720,Tablet,East,Online,10,Computers,5626.05
+2025-06-28 21:17:46.481223922,Monitor 27,North,Online,2,Computers,565.68
+2025-06-29 15:29:17.440890126,Webcam,South,Retail,6,Accessories,382.64
+2025-06-30 09:40:48.400556328,Webcam,East,Retail,13,Accessories,1027.52
+2025-07-01 03:52:19.360222532,Keyboard,West,Online,12,Accessories,654.66
+2025-07-01 22:03:50.319888736,Headset,East,Online,12,Accessories,1139.54
+2025-07-02 16:15:21.279554938,Phone,North,Retail,5,Mobile,3182.01
+2025-07-03 10:26:52.239221142,Monitor 27,West,Retail,11,Computers,3433.27
+2025-07-04 04:38:23.198887344,Tablet,East,Online,3,Computers,1623.91
+2025-07-04 22:49:54.158553548,Tablet,East,Partner,12,Computers,5900.25
+2025-07-05 17:01:25.118219750,Printer,East,Online,4,Office,1054.01
+2025-07-06 11:12:56.077885954,Headset,West,Partner,2,Accessories,191.14
+2025-07-07 05:24:27.037552156,Printer,South,Partner,2,Office,437.45
+2025-07-07 23:35:57.997218360,Monitor 27,West,Partner,11,Computers,3934.05
+2025-07-08 17:47:28.956884562,Monitor 27,East,Retail,9,Computers,2691.87
+2025-07-09 11:58:59.916550766,Tablet,West,Partner,11,Computers,5099.25
+2025-07-10 06:10:30.876216968,Monitor 27,South,Retail,4,Computers,1417.02
+2025-07-11 00:22:01.835883172,Laptop Pro,West,Online,9,Computers,8254.26
+2025-07-11 18:33:32.795549374,Headset,West,Retail,6,Accessories,463.41
+2025-07-12 12:45:03.755215578,Webcam,East,Partner,8,Accessories,592.93
+2025-07-13 06:56:34.714881780,Tablet,East,Retail,4,Computers,2125.31
+2025-07-14 01:08:05.674547984,Docking Station,West,Online,12,Accessories,1658.64
+2025-07-14 19:19:36.634214188,Keyboard,East,Online,4,Accessories,198.93
+2025-07-15 13:31:07.593880390,Headset,West,Partner,11,Accessories,882.5
+2025-07-16 07:42:38.553546594,Monitor 27,West,Partner,12,Computers,3873.59
+2025-07-17 01:54:09.513212796,Keyboard,North,Partner,12,Accessories,654.23
+2025-07-17 20:05:40.472879000,Tablet,South,Online,13,Computers,5377.79
+2025-07-18 14:17:11.432545202,Printer,West,Retail,11,Office,2221.12
+2025-07-19 08:28:42.392211406,Printer,West,Online,10,Office,2776.87
+2025-07-20 02:40:13.351877608,Keyboard,West,Retail,10,Accessories,531.07
+2025-07-20 20:51:44.311543812,Keyboard,North,Online,12,Accessories,630.84
+2025-07-21 15:03:15.271210014,Headset,West,Partner,4,Accessories,318.98
+2025-07-22 09:14:46.230876218,Keyboard,West,Retail,3,Accessories,188.1
+2025-07-23 03:26:17.190542420,Keyboard,North,Online,7,Accessories,489.56
+2025-07-23 21:37:48.150208624,Phone,East,Online,1,Mobile,727.24
+2025-07-24 15:49:19.109874826,Mouse,South,Partner,10,Accessories,380.07
+2025-07-25 10:00:50.069541030,Webcam,East,Retail,5,Accessories,367.47
+2025-07-26 04:12:21.029207232,Mouse,West,Partner,9,Accessories,306.1
+2025-07-26 22:23:51.988873436,Laptop Pro,South,Partner,3,Computers,2994.7
+2025-07-27 16:35:22.948539640,Laptop Pro,South,Online,13,Computers,10817.9
+2025-07-28 10:46:53.908205842,Phone,North,Retail,3,Mobile,1617.67
+2025-07-29 04:58:24.867872044,Mouse,North,Online,4,Accessories,137.06
+2025-07-29 23:09:55.827538248,Laptop Pro,West,Online,13,Computers,11057.62
+2025-07-30 17:21:26.787204452,Mouse,North,Online,2,Accessories,60.91
+2025-07-31 11:32:57.746870656,Keyboard,North,Online,3,Accessories,187.81
+2025-08-01 05:44:28.706536856,Printer,East,Online,3,Office,666.37
+2025-08-01 23:55:59.666203060,Phone,West,Retail,5,Mobile,3074.43
+2025-08-02 18:07:30.625869264,Docking Station,West,Retail,4,Accessories,638.66
+2025-08-03 12:19:01.585535468,Laptop Pro,North,Partner,1,Computers,840.99
+2025-08-04 06:30:32.545201668,Laptop Pro,North,Retail,10,Computers,7791.6
+2025-08-05 00:42:03.504867872,Docking Station,West,Retail,10,Accessories,1438.96
+2025-08-05 18:53:34.464534076,Monitor 27,East,Online,12,Computers,3673.75
+2025-08-06 13:05:05.424200280,Monitor 27,West,Retail,7,Computers,2081.46
+2025-08-07 07:16:36.383866480,Phone,North,Retail,1,Mobile,655.92
+2025-08-08 01:28:07.343532684,Monitor 27,North,Retail,2,Computers,667.58
+2025-08-08 19:39:38.303198888,Docking Station,West,Retail,8,Accessories,1468.95
+2025-08-09 13:51:09.262865092,Webcam,West,Retail,4,Accessories,255.63
+2025-08-10 08:02:40.222531296,Keyboard,East,Online,3,Accessories,202.47
+2025-08-11 02:14:11.182197496,Docking Station,South,Partner,1,Accessories,156.57
+2025-08-11 20:25:42.141863700,Printer,West,Retail,4,Office,849.91
+2025-08-12 14:37:13.101529904,Headset,North,Online,13,Accessories,1130.74
+2025-08-13 08:48:44.061196108,Headset,East,Retail,11,Accessories,969.15
+2025-08-14 03:00:15.020862308,Laptop Pro,South,Online,4,Computers,3261.83
+2025-08-14 21:11:45.980528512,Docking Station,West,Partner,7,Accessories,1054.35
+2025-08-15 15:23:16.940194716,Mouse,West,Online,1,Accessories,33.88
+2025-08-16 09:34:47.899860920,Keyboard,South,Partner,10,Accessories,556.85
+2025-08-17 03:46:18.859527120,Laptop Pro,North,Partner,12,Computers,12201.67
+2025-08-17 21:57:49.819193324,Keyboard,West,Retail,7,Accessories,365.26
+2025-08-18 16:09:20.778859528,Mouse,East,Retail,8,Accessories,276.96
+2025-08-19 10:20:51.738525732,Laptop Pro,South,Online,7,Computers,5472.68
+2025-08-20 04:32:22.698191936,Printer,North,Online,8,Office,1777.09
+2025-08-20 22:43:53.657858136,Monitor 27,South,Online,2,Computers,725.44
+2025-08-21 16:55:24.617524340,Keyboard,East,Partner,5,Accessories,255.84
+2025-08-22 11:06:55.577190544,Headset,South,Partner,6,Accessories,559.28
+2025-08-23 05:18:26.536856748,Printer,North,Retail,9,Office,2137.59
+2025-08-23 23:29:57.496522948,Monitor 27,South,Partner,9,Computers,2529.33
+2025-08-24 17:41:28.456189152,Phone,West,Retail,4,Mobile,2604.85
+2025-08-25 11:52:59.415855356,Tablet,South,Online,4,Computers,2107.87
+2025-08-26 06:04:30.375521560,Headset,West,Retail,8,Accessories,592.22
+2025-08-27 00:16:01.335187760,Webcam,South,Retail,10,Accessories,789.2
+2025-08-27 18:27:32.294853964,Keyboard,West,Online,4,Accessories,218.19
+2025-08-28 12:39:03.254520168,Keyboard,West,Partner,13,Accessories,857.2
+2025-08-29 06:50:34.214186372,Phone,West,Retail,6,Mobile,3110.0
+2025-08-30 01:02:05.173852572,Webcam,North,Partner,13,Accessories,835.77
+2025-08-30 19:13:36.133518776,Phone,South,Retail,4,Mobile,2528.45
+2025-08-31 13:25:07.093184980,Printer,West,Retail,7,Office,1900.0
+2025-09-01 07:36:38.052851184,Monitor 27,South,Retail,12,Computers,4087.23
+2025-09-02 01:48:09.012517388,Webcam,East,Retail,4,Accessories,271.61
+2025-09-02 19:59:39.972183588,Docking Station,South,Retail,7,Accessories,1210.77
+2025-09-03 14:11:10.931849792,Monitor 27,East,Retail,11,Computers,3458.23
+2025-09-04 08:22:41.891515996,Keyboard,South,Online,8,Accessories,412.39
+2025-09-05 02:34:12.851182200,Webcam,West,Partner,9,Accessories,535.32
+2025-09-05 20:45:43.810848400,Monitor 27,North,Partner,8,Computers,2307.11
+2025-09-06 14:57:14.770514604,Phone,North,Partner,12,Mobile,7127.22
+2025-09-07 09:08:45.730180808,Monitor 27,West,Partner,12,Computers,4203.24
+2025-09-08 03:20:16.689847012,Laptop Pro,East,Online,7,Computers,7080.86
+2025-09-08 21:31:47.649513212,Webcam,South,Retail,7,Accessories,529.84
+2025-09-09 15:43:18.609179416,Laptop Pro,North,Partner,12,Computers,13392.2
+2025-09-10 09:54:49.568845620,Laptop Pro,South,Partner,13,Computers,10312.12
+2025-09-11 04:06:20.528511824,Printer,West,Online,8,Office,1610.95
+2025-09-11 22:17:51.488178024,Webcam,West,Partner,11,Accessories,641.87
+2025-09-12 16:29:22.447844228,Docking Station,North,Retail,9,Accessories,1562.41
+2025-09-13 10:40:53.407510432,Keyboard,South,Online,12,Accessories,838.92
+2025-09-14 04:52:24.367176636,Docking Station,North,Online,9,Accessories,1187.8
+2025-09-14 23:03:55.326842840,Headset,South,Online,8,Accessories,653.24
+2025-09-15 17:15:26.286509040,Webcam,North,Online,8,Accessories,644.46
+2025-09-16 11:26:57.246175244,Monitor 27,East,Online,4,Computers,1121.28
+2025-09-17 05:38:28.205841448,Webcam,South,Partner,1,Accessories,69.53
+2025-09-17 23:49:59.165507652,Printer,East,Retail,3,Office,708.71
+2025-09-18 18:01:30.125173852,Headset,North,Partner,12,Accessories,1084.02
+2025-09-19 12:13:01.084840056,Headset,South,Online,9,Accessories,841.24
+2025-09-20 06:24:32.044506260,Monitor 27,West,Partner,8,Computers,2769.6
+2025-09-21 00:36:03.004172464,Mouse,North,Partner,1,Accessories,37.66
+2025-09-21 18:47:33.963838664,Printer,South,Online,10,Office,2095.54
+2025-09-22 12:59:04.923504868,Docking Station,East,Online,8,Accessories,1054.9
+2025-09-23 07:10:35.883171072,Tablet,West,Retail,8,Computers,4517.85
+2025-09-24 01:22:06.842837276,Headset,North,Online,6,Accessories,569.71
+2025-09-24 19:33:37.802503480,Webcam,South,Retail,8,Accessories,610.23
+2025-09-25 13:45:08.762169680,Printer,East,Partner,3,Office,801.97
+2025-09-26 07:56:39.721835884,Phone,West,Partner,8,Mobile,4889.16
+2025-09-27 02:08:10.681502088,Webcam,East,Retail,12,Accessories,778.65
+2025-09-27 20:19:41.641168292,Laptop Pro,East,Partner,6,Computers,6427.66
+2025-09-28 14:31:12.600834492,Printer,East,Retail,4,Office,973.25
+2025-09-29 08:42:43.560500696,Webcam,North,Retail,1,Accessories,81.63
+2025-09-30 02:54:14.520166900,Phone,South,Retail,2,Mobile,1107.0
+2025-09-30 21:05:45.479833104,Webcam,East,Partner,9,Accessories,607.04
+2025-10-01 15:17:16.439499304,Tablet,South,Retail,4,Computers,2195.01
+2025-10-02 09:28:47.399165508,Laptop Pro,North,Retail,9,Computers,7680.56
+2025-10-03 03:40:18.358831712,Keyboard,South,Partner,6,Accessories,388.15
+2025-10-03 21:51:49.318497916,Webcam,North,Online,5,Accessories,393.2
+2025-10-04 16:03:20.278164116,Tablet,West,Retail,8,Computers,3852.73
+2025-10-05 10:14:51.237830320,Printer,East,Online,9,Office,1987.26
+2025-10-06 04:26:22.197496524,Keyboard,East,Online,13,Accessories,855.92
+2025-10-06 22:37:53.157162728,Webcam,East,Partner,8,Accessories,640.41
+2025-10-07 16:49:24.116828932,Laptop Pro,East,Online,5,Computers,3933.7
+2025-10-08 11:00:55.076495132,Phone,East,Retail,4,Mobile,2659.84
+2025-10-09 05:12:26.036161336,Webcam,West,Retail,11,Accessories,765.5
+2025-10-09 23:23:56.995827540,Printer,South,Online,1,Office,246.78
+2025-10-10 17:35:27.955493744,Keyboard,West,Retail,11,Accessories,745.1
+2025-10-11 11:46:58.915159944,Webcam,North,Online,12,Accessories,707.84
+2025-10-12 05:58:29.874826148,Mouse,South,Partner,5,Accessories,152.07
+2025-10-13 00:10:00.834492352,Docking Station,West,Partner,11,Accessories,1775.02
+2025-10-13 18:21:31.794158556,Phone,West,Retail,9,Mobile,5527.18
+2025-10-14 12:33:02.753824756,Docking Station,East,Online,10,Accessories,1491.36
+2025-10-15 06:44:33.713490960,Headset,East,Retail,9,Accessories,721.03
+2025-10-16 00:56:04.673157164,Phone,East,Partner,8,Mobile,4753.61
+2025-10-16 19:07:35.632823368,Headset,East,Retail,3,Accessories,235.53
+2025-10-17 13:19:06.592489568,Docking Station,West,Partner,11,Accessories,1604.02
+2025-10-18 07:30:37.552155772,Phone,North,Retail,13,Mobile,8297.69
+2025-10-19 01:42:08.511821976,Mouse,East,Partner,13,Accessories,460.06
+2025-10-19 19:53:39.471488180,Webcam,South,Retail,1,Accessories,80.97
+2025-10-20 14:05:10.431154384,Phone,East,Partner,4,Mobile,2036.07
+2025-10-21 08:16:41.390820584,Docking Station,North,Retail,1,Accessories,147.77
+2025-10-22 02:28:12.350486788,Keyboard,North,Partner,11,Accessories,608.84
+2025-10-22 20:39:43.310152992,Headset,West,Partner,8,Accessories,721.42
+2025-10-23 14:51:14.269819196,Headset,North,Retail,12,Accessories,1026.61
+2025-10-24 09:02:45.229485396,Keyboard,East,Online,5,Accessories,335.68
+2025-10-25 03:14:16.189151600,Keyboard,South,Partner,12,Accessories,696.16
+2025-10-25 21:25:47.148817804,Laptop Pro,North,Online,8,Computers,8065.69
+2025-10-26 15:37:18.108484008,Printer,South,Partner,10,Office,2580.98
+2025-10-27 09:48:49.068150208,Laptop Pro,North,Partner,4,Computers,4452.59
+2025-10-28 04:00:20.027816412,Monitor 27,East,Retail,9,Computers,2419.07
+2025-10-28 22:11:50.987482616,Monitor 27,North,Partner,12,Computers,4049.44
+2025-10-29 16:23:21.947148820,Tablet,West,Retail,10,Computers,4047.91
+2025-10-30 10:34:52.906815020,Keyboard,West,Partner,6,Accessories,375.42
+2025-10-31 04:46:23.866481224,Headset,South,Online,6,Accessories,437.89
+2025-10-31 22:57:54.826147428,Webcam,West,Retail,2,Accessories,117.92
+2025-11-01 17:09:25.785813632,Mouse,West,Retail,11,Accessories,400.9
+2025-11-02 11:20:56.745479836,Keyboard,South,Retail,4,Accessories,269.82
+2025-11-03 05:32:27.705146036,Laptop Pro,West,Retail,13,Computers,10740.09
+2025-11-03 23:43:58.664812240,Headset,North,Retail,3,Accessories,277.9
+2025-11-04 17:55:29.624478444,Docking Station,West,Online,11,Accessories,1639.58
+2025-11-05 12:07:00.584144648,Headset,East,Partner,13,Accessories,968.9
+2025-11-06 06:18:31.543810848,Keyboard,South,Online,11,Accessories,758.5
+2025-11-07 00:30:02.503477052,Mouse,East,Partner,10,Accessories,344.97
+2025-11-07 18:41:33.463143256,Laptop Pro,North,Online,13,Computers,13180.69
+2025-11-08 12:53:04.422809460,Monitor 27,East,Online,4,Computers,1290.52
+2025-11-09 07:04:35.382475660,Monitor 27,North,Partner,3,Computers,954.09
+2025-11-10 01:16:06.342141864,Keyboard,East,Partner,3,Accessories,159.55
+2025-11-10 19:27:37.301808068,Phone,East,Online,10,Mobile,6020.47
+2025-11-11 13:39:08.261474272,Docking Station,West,Retail,10,Accessories,1773.64
+2025-11-12 07:50:39.221140472,Webcam,North,Partner,7,Accessories,447.65
+2025-11-13 02:02:10.180806676,Phone,East,Retail,11,Mobile,5794.64
+2025-11-13 20:13:41.140472880,Mouse,West,Retail,13,Accessories,485.23
+2025-11-14 14:25:12.100139084,Mouse,West,Partner,7,Accessories,267.27
+2025-11-15 08:36:43.059805288,Laptop Pro,West,Partner,12,Computers,12749.56
+2025-11-16 02:48:14.019471488,Headset,East,Retail,12,Accessories,1063.2
+2025-11-16 20:59:44.979137692,Tablet,South,Retail,6,Computers,2670.15
+2025-11-17 15:11:15.938803896,Mouse,East,Retail,6,Accessories,185.35
+2025-11-18 09:22:46.898470100,Printer,North,Partner,2,Office,446.43
+2025-11-19 03:34:17.858136300,Mouse,East,Partner,8,Accessories,229.81
+2025-11-19 21:45:48.817802504,Headset,North,Online,5,Accessories,387.49
+2025-11-20 15:57:19.777468708,Printer,East,Retail,1,Office,238.38
+2025-11-21 10:08:50.737134912,Printer,South,Retail,8,Office,2151.34
+2025-11-22 04:20:21.696801112,Webcam,South,Retail,8,Accessories,511.38
+2025-11-22 22:31:52.656467316,Printer,West,Online,12,Office,2477.58
+2025-11-23 16:43:23.616133520,Mouse,South,Partner,3,Accessories,97.82
+2025-11-24 10:54:54.575799724,Keyboard,East,Partner,10,Accessories,666.67
+2025-11-25 05:06:25.535465928,Monitor 27,North,Partner,2,Computers,720.69
+2025-11-25 23:17:56.495132128,Mouse,East,Partner,10,Accessories,296.53
+2025-11-26 17:29:27.454798332,Webcam,North,Partner,5,Accessories,385.71
+2025-11-27 11:40:58.414464536,Docking Station,East,Online,10,Accessories,1577.3
+2025-11-28 05:52:29.374130740,Headset,South,Retail,8,Accessories,669.77
+2025-11-29 00:04:00.333796940,Laptop Pro,West,Retail,5,Computers,4767.6
+2025-11-29 18:15:31.293463144,Phone,West,Online,11,Mobile,7453.69
+2025-11-30 12:27:02.253129348,Docking Station,East,Partner,11,Accessories,2023.87
+2025-12-01 06:38:33.212795552,Headset,East,Online,5,Accessories,368.16
+2025-12-02 00:50:04.172461752,Printer,North,Retail,12,Office,2629.7
+2025-12-02 19:01:35.132127956,Laptop Pro,South,Online,7,Computers,7121.06
+2025-12-03 13:13:06.091794160,Headset,East,Online,9,Accessories,628.91
+2025-12-04 07:24:37.051460364,Webcam,South,Partner,9,Accessories,673.61
+2025-12-05 01:36:08.011126564,Webcam,South,Partner,1,Accessories,68.98
+2025-12-05 19:47:38.970792768,Phone,West,Partner,1,Mobile,608.96
+2025-12-06 13:59:09.930458972,Tablet,North,Partner,7,Computers,3650.56
+2025-12-07 08:10:40.890125176,Headset,West,Retail,8,Accessories,646.22
+2025-12-08 02:22:11.849791380,Tablet,North,Partner,7,Computers,2921.17
+2025-12-08 20:33:42.809457580,Phone,East,Partner,8,Mobile,5231.0
+2025-12-09 14:45:13.769123784,Monitor 27,East,Retail,10,Computers,3415.72
+2025-12-10 08:56:44.728789988,Monitor 27,West,Partner,2,Computers,720.94
+2025-12-11 03:08:15.688456192,Docking Station,South,Online,12,Accessories,1774.74
+2025-12-11 21:19:46.648122392,Keyboard,West,Retail,6,Accessories,384.44
+2025-12-12 15:31:17.607788596,Printer,North,Partner,10,Office,2633.23
+2025-12-13 09:42:48.567454800,Mouse,East,Partner,6,Accessories,206.85
+2025-12-14 03:54:19.527121004,Webcam,North,Retail,9,Accessories,729.51
+2025-12-14 22:05:50.486787204,Headset,West,Online,10,Accessories,930.53
+2025-12-15 16:17:21.446453408,Monitor 27,East,Online,2,Computers,538.95
+2025-12-16 10:28:52.406119612,Docking Station,North,Partner,5,Accessories,816.32
+2025-12-17 04:40:23.365785816,Laptop Pro,West,Partner,11,Computers,10317.19
+2025-12-17 22:51:54.325452016,Phone,West,Online,5,Mobile,2813.88
+2025-12-18 17:03:25.285118220,Laptop Pro,North,Online,3,Computers,2475.43
+2025-12-19 11:14:56.244784424,Tablet,North,Online,1,Computers,487.08
+2025-12-20 05:26:27.204450628,Phone,North,Online,2,Mobile,1426.09
+2025-12-20 23:37:58.164116832,Printer,North,Online,4,Office,1051.05
+2025-12-21 17:49:29.123783032,Keyboard,North,Retail,2,Accessories,104.96
+2025-12-22 12:01:00.083449236,Printer,South,Retail,9,Office,2429.5
+2025-12-23 06:12:31.043115440,Keyboard,East,Partner,9,Accessories,485.92
+2025-12-24 00:24:02.002781644,Docking Station,North,Partner,5,Accessories,891.25
+2025-12-24 18:35:32.962447844,Laptop Pro,East,Online,10,Computers,10953.01
+2025-12-25 12:47:03.922114048,Monitor 27,East,Retail,8,Computers,2440.48
+2025-12-26 06:58:34.881780252,Webcam,North,Partner,13,Accessories,976.92
+2025-12-27 01:10:05.841446456,Tablet,South,Online,5,Computers,2381.12
+2025-12-27 19:21:36.801112656,Webcam,West,Retail,12,Accessories,817.43
+2025-12-28 13:33:07.760778860,Docking Station,North,Online,8,Accessories,1268.55
+2025-12-29 07:44:38.720445064,Laptop Pro,North,Online,13,Computers,11623.74
+2025-12-30 01:56:09.680111268,Webcam,North,Retail,9,Accessories,599.75
+2025-12-30 20:07:40.639777472,Mouse,East,Online,13,Accessories,403.97
+2025-12-31 14:19:11.599443672,Webcam,North,Partner,6,Accessories,442.19
+2026-01-01 08:30:42.559109876,Keyboard,East,Partner,6,Accessories,421.61
+2026-01-02 02:42:13.518776080,Phone,West,Retail,12,Mobile,6539.0
+2026-01-02 20:53:44.478442284,Headset,South,Online,2,Accessories,163.31
+2026-01-03 15:05:15.438108484,Laptop Pro,West,Partner,1,Computers,875.76
+2026-01-04 09:16:46.397774688,Webcam,South,Retail,11,Accessories,845.68
+2026-01-05 03:28:17.357440892,Monitor 27,South,Partner,2,Computers,588.91
+2026-01-05 21:39:48.317107096,Tablet,West,Partner,6,Computers,2366.08
+2026-01-06 15:51:19.276773296,Monitor 27,East,Online,8,Computers,2313.36
+2026-01-07 10:02:50.236439500,Keyboard,North,Online,13,Accessories,773.23
+2026-01-08 04:14:21.196105704,Tablet,North,Retail,3,Computers,1263.08
+2026-01-08 22:25:52.155771908,Tablet,North,Online,3,Computers,1270.89
+2026-01-09 16:37:23.115438108,Headset,South,Online,4,Accessories,296.57
+2026-01-10 10:48:54.075104312,Keyboard,East,Retail,2,Accessories,135.37
+2026-01-11 05:00:25.034770516,Laptop Pro,East,Retail,4,Computers,3369.6
+2026-01-11 23:11:55.994436720,Mouse,North,Retail,1,Accessories,35.1
+2026-01-12 17:23:26.954102924,Keyboard,North,Partner,11,Accessories,625.59
+2026-01-13 11:34:57.913769124,Phone,West,Partner,10,Mobile,7285.1
+2026-01-14 05:46:28.873435328,Mouse,South,Partner,4,Accessories,150.84
+2026-01-14 23:57:59.833101532,Tablet,North,Partner,9,Computers,4289.87
+2026-01-15 18:09:30.792767736,Tablet,North,Retail,6,Computers,3303.73
+2026-01-16 12:21:01.752433936,Phone,West,Partner,6,Mobile,3378.86
+2026-01-17 06:32:32.712100140,Webcam,North,Partner,12,Accessories,700.73
+2026-01-18 00:44:03.671766344,Tablet,East,Partner,2,Computers,881.32
+2026-01-18 18:55:34.631432548,Headset,North,Partner,7,Accessories,604.76
+2026-01-19 13:07:05.591098748,Docking Station,East,Online,4,Accessories,747.64
+2026-01-20 07:18:36.550764952,Docking Station,South,Retail,12,Accessories,1839.31
+2026-01-21 01:30:07.510431156,Printer,South,Online,2,Office,501.21
+2026-01-21 19:41:38.470097360,Tablet,South,Online,8,Computers,3898.31
+2026-01-22 13:53:09.429763560,Monitor 27,West,Partner,8,Computers,2649.37
+2026-01-23 08:04:40.389429764,Mouse,South,Partner,11,Accessories,378.49
+2026-01-24 02:16:11.349095968,Webcam,West,Online,8,Accessories,514.63
+2026-01-24 20:27:42.308762172,Docking Station,South,Retail,6,Accessories,971.02
+2026-01-25 14:39:13.268428376,Printer,East,Partner,5,Office,1159.89
+2026-01-26 08:50:44.228094576,Monitor 27,East,Online,8,Computers,2069.01
+2026-01-27 03:02:15.187760780,Keyboard,East,Online,8,Accessories,558.16
+2026-01-27 21:13:46.147426984,Docking Station,North,Partner,1,Accessories,187.7
+2026-01-28 15:25:17.107093188,Mouse,North,Online,9,Accessories,276.64
+2026-01-29 09:36:48.066759388,Printer,South,Partner,9,Office,2483.72
+2026-01-30 03:48:19.026425592,Monitor 27,South,Partner,7,Computers,2414.44
+2026-01-30 21:59:49.986091796,Phone,East,Online,1,Mobile,682.99
+2026-01-31 16:11:20.945758000,Keyboard,North,Retail,10,Accessories,641.29
+2026-02-01 10:22:51.905424200,Keyboard,West,Retail,10,Accessories,632.04
+2026-02-02 04:34:22.865090404,Keyboard,North,Retail,2,Accessories,123.85
+2026-02-02 22:45:53.824756608,Keyboard,West,Partner,13,Accessories,698.49
+2026-02-03 16:57:24.784422812,Laptop Pro,North,Partner,5,Computers,5582.92
+2026-02-04 11:08:55.744089012,Headset,South,Retail,13,Accessories,1256.31
+2026-02-05 05:20:26.703755216,Tablet,South,Partner,12,Computers,4772.91
+2026-02-05 23:31:57.663421420,Monitor 27,West,Partner,9,Computers,3272.17
+2026-02-06 17:43:28.623087624,Headset,West,Partner,11,Accessories,954.76
+2026-02-07 11:54:59.582753828,Laptop Pro,West,Online,11,Computers,11453.37
+2026-02-08 06:06:30.542420028,Tablet,West,Partner,5,Computers,2693.36
+2026-02-09 00:18:01.502086232,Mouse,North,Online,4,Accessories,128.76
+2026-02-09 18:29:32.461752436,Printer,South,Retail,5,Office,1032.73
+2026-02-10 12:41:03.421418640,Webcam,East,Partner,7,Accessories,493.44
+2026-02-11 06:52:34.381084840,Monitor 27,East,Partner,3,Computers,946.86
+2026-02-12 01:04:05.340751044,Docking Station,North,Online,10,Accessories,1467.05
+2026-02-12 19:15:36.300417248,Webcam,West,Retail,1,Accessories,68.89
+2026-02-13 13:27:07.260083452,Keyboard,West,Partner,2,Accessories,103.35
+2026-02-14 07:38:38.219749652,Headset,East,Retail,5,Accessories,470.51
+2026-02-15 01:50:09.179415856,Phone,East,Online,4,Mobile,2879.35
+2026-02-15 20:01:40.139082060,Docking Station,West,Retail,12,Accessories,1575.85
+2026-02-16 14:13:11.098748264,Laptop Pro,West,Retail,3,Computers,2671.1
+2026-02-17 08:24:42.058414464,Docking Station,South,Partner,4,Accessories,615.57
+2026-02-18 02:36:13.018080668,Laptop Pro,North,Online,4,Computers,3349.62
+2026-02-18 20:47:43.977746872,Mouse,West,Online,6,Accessories,246.14
+2026-02-19 14:59:14.937413076,Webcam,South,Partner,2,Accessories,126.35
+2026-02-20 09:10:45.897079280,Docking Station,East,Retail,5,Accessories,873.74
+2026-02-21 03:22:16.856745480,Laptop Pro,South,Retail,3,Computers,2713.9
+2026-02-21 21:33:47.816411684,Phone,East,Online,4,Mobile,2652.28
+2026-02-22 15:45:18.776077888,Phone,East,Retail,9,Mobile,4750.35
+2026-02-23 09:56:49.735744088,Mouse,North,Online,3,Accessories,97.19
+2026-02-24 04:08:20.695410296,Keyboard,East,Retail,13,Accessories,826.45
+2026-02-24 22:19:51.655076496,Monitor 27,East,Retail,2,Computers,550.04
+2026-02-25 16:31:22.614742696,Monitor 27,East,Partner,8,Computers,2389.27
+2026-02-26 10:42:53.574408904,Laptop Pro,East,Online,7,Computers,7809.75
+2026-02-27 04:54:24.534075104,Webcam,North,Partner,13,Accessories,943.2
+2026-02-27 23:05:55.493741312,Headset,South,Partner,2,Accessories,145.88
+2026-02-28 17:17:26.453407512,Headset,West,Retail,5,Accessories,355.17
+2026-03-01 11:28:57.413073712,Keyboard,East,Online,6,Accessories,340.26
+2026-03-02 05:40:28.372739920,Phone,South,Retail,10,Mobile,7193.63
+2026-03-02 23:51:59.332406120,Tablet,South,Partner,3,Computers,1677.91
+2026-03-03 18:03:30.292072328,Headset,South,Online,5,Accessories,383.61
+2026-03-04 12:15:01.251738528,Mouse,North,Partner,5,Accessories,174.4
+2026-03-05 06:26:32.211404728,Laptop Pro,North,Retail,7,Computers,7251.12
+2026-03-06 00:38:03.171070936,Monitor 27,North,Online,4,Computers,1433.88
+2026-03-06 18:49:34.130737136,Monitor 27,South,Partner,2,Computers,556.48
+2026-03-07 13:01:05.090403336,Headset,North,Online,1,Accessories,84.22
+2026-03-08 07:12:36.050069544,Laptop Pro,South,Online,10,Computers,9470.77
+2026-03-09 01:24:07.009735744,Phone,South,Retail,12,Mobile,8669.89
+2026-03-09 19:35:37.969401952,Monitor 27,South,Retail,4,Computers,1187.57
+2026-03-10 13:47:08.929068152,Tablet,West,Retail,11,Computers,4942.1
+2026-03-11 07:58:39.888734352,Keyboard,South,Online,7,Accessories,408.01
+2026-03-12 02:10:10.848400560,Laptop Pro,East,Online,5,Computers,4274.33
+2026-03-12 20:21:41.808066760,Laptop Pro,West,Online,13,Computers,11965.93
+2026-03-13 14:33:12.767732960,Headset,North,Online,8,Accessories,743.85
+2026-03-14 08:44:43.727399168,Docking Station,West,Online,7,Accessories,1083.17
+2026-03-15 02:56:14.687065368,Webcam,West,Partner,10,Accessories,598.08
+2026-03-15 21:07:45.646731576,Printer,East,Retail,12,Office,2501.72
+2026-03-16 15:19:16.606397776,Printer,East,Online,10,Office,2455.71
+2026-03-17 09:30:47.566063976,Headset,East,Online,11,Accessories,884.15
+2026-03-18 03:42:18.525730184,Printer,South,Partner,13,Office,3231.33
+2026-03-18 21:53:49.485396384,Docking Station,East,Partner,7,Accessories,976.01
+2026-03-19 16:05:20.445062592,Tablet,South,Partner,8,Computers,3636.24
+2026-03-20 10:16:51.404728792,Printer,East,Retail,2,Office,556.17
+2026-03-21 04:28:22.364394992,Monitor 27,North,Partner,2,Computers,518.26
+2026-03-21 22:39:53.324061200,Printer,North,Retail,3,Office,793.99
+2026-03-22 16:51:24.283727400,Monitor 27,South,Retail,8,Computers,2785.37
+2026-03-23 11:02:55.243393600,Webcam,North,Retail,6,Accessories,426.24
+2026-03-24 05:14:26.203059808,Phone,West,Retail,13,Mobile,8888.08
+2026-03-24 23:25:57.162726008,Headset,South,Retail,6,Accessories,538.72
+2026-03-25 17:37:28.122392216,Tablet,West,Online,11,Computers,4581.16
+2026-03-26 11:48:59.082058416,Keyboard,North,Retail,10,Accessories,604.59
+2026-03-27 06:00:30.041724616,Webcam,North,Retail,12,Accessories,735.57
+2026-03-28 00:12:01.001390824,Docking Station,North,Retail,10,Accessories,1346.77
+2026-03-28 18:23:31.961057024,Monitor 27,South,Online,10,Computers,2799.71
+2026-03-29 12:35:02.920723232,Mouse,East,Partner,2,Accessories,72.1
+2026-03-30 06:46:33.880389432,Mouse,South,Online,4,Accessories,131.49
+2026-03-31 00:58:04.840055632,Headset,West,Online,5,Accessories,381.4
+2026-03-31 19:09:35.799721840,Laptop Pro,West,Retail,6,Computers,5454.3
+2026-04-01 13:21:06.759388040,Keyboard,North,Partner,1,Accessories,53.35
+2026-04-02 07:32:37.719054240,Headset,East,Retail,2,Accessories,148.82
+2026-04-03 01:44:08.678720448,Tablet,East,Online,3,Computers,1371.73
+2026-04-03 19:55:39.638386648,Webcam,West,Partner,11,Accessories,638.33
+2026-04-04 14:07:10.598052856,Tablet,South,Partner,13,Computers,6676.61
+2026-04-05 08:18:41.557719056,Laptop Pro,North,Partner,13,Computers,12839.45
+2026-04-06 02:30:12.517385256,Headset,North,Online,4,Accessories,360.25
+2026-04-06 20:41:43.477051464,Headset,North,Retail,7,Accessories,650.65
+2026-04-07 14:53:14.436717664,Mouse,West,Retail,2,Accessories,63.48
+2026-04-08 09:04:45.396383872,Keyboard,North,Partner,5,Accessories,335.75
+2026-04-09 03:16:16.356050072,Tablet,East,Partner,9,Computers,4046.39
+2026-04-09 21:27:47.315716272,Headset,North,Online,8,Accessories,640.56
+2026-04-10 15:39:18.275382480,Mouse,West,Partner,2,Accessories,77.59
+2026-04-11 09:50:49.235048680,Phone,North,Online,2,Mobile,1331.7
+2026-04-12 04:02:20.194714880,Webcam,East,Retail,12,Accessories,918.12
+2026-04-12 22:13:51.154381088,Monitor 27,North,Online,3,Computers,976.67
+2026-04-13 16:25:22.114047288,Monitor 27,East,Retail,9,Computers,2666.94
+2026-04-14 10:36:53.073713496,Keyboard,North,Online,9,Accessories,546.65
+2026-04-15 04:48:24.033379696,Webcam,South,Retail,9,Accessories,631.8
+2026-04-15 22:59:54.993045896,Keyboard,West,Partner,8,Accessories,424.92
+2026-04-16 17:11:25.952712104,Keyboard,East,Online,8,Accessories,522.24
+2026-04-17 11:22:56.912378304,Phone,South,Retail,4,Mobile,2655.05
+2026-04-18 05:34:27.872044504,Phone,East,Partner,5,Mobile,2971.41
+2026-04-18 23:45:58.831710712,Webcam,East,Retail,13,Accessories,1052.44
+2026-04-19 17:57:29.791376912,Mouse,North,Partner,1,Accessories,33.62
+2026-04-20 12:09:00.751043120,Printer,South,Retail,2,Office,418.43
+2026-04-21 06:20:31.710709320,Mouse,North,Partner,4,Accessories,165.02
+2026-04-22 00:32:02.670375520,Laptop Pro,South,Partner,10,Computers,10413.77
+2026-04-22 18:43:33.630041728,Phone,North,Partner,1,Mobile,637.66
+2026-04-23 12:55:04.589707928,Phone,South,Retail,6,Mobile,3866.5
+2026-04-24 07:06:35.549374136,Laptop Pro,East,Partner,11,Computers,9743.52
+2026-04-25 01:18:06.509040336,Tablet,South,Partner,2,Computers,991.27
+2026-04-25 19:29:37.468706536,Phone,East,Retail,6,Mobile,4227.72
+2026-04-26 13:41:08.428372744,Docking Station,North,Online,7,Accessories,1009.81
+2026-04-27 07:52:39.388038944,Phone,South,Online,9,Mobile,4901.48
+2026-04-28 02:04:10.347705144,Webcam,South,Retail,3,Accessories,231.14
+2026-04-28 20:15:41.307371352,Printer,West,Retail,11,Office,2812.56
+2026-04-29 14:27:12.267037552,Tablet,South,Partner,12,Computers,5152.12
+2026-04-30 08:38:43.226703760,Tablet,East,Online,4,Computers,2040.29
+2026-05-01 02:50:14.186369960,Laptop Pro,West,Partner,8,Computers,8202.67
+2026-05-01 21:01:45.146036160,Tablet,North,Online,12,Computers,5306.81
+2026-05-02 15:13:16.105702368,Laptop Pro,North,Retail,7,Computers,6185.69
+2026-05-03 09:24:47.065368568,Laptop Pro,West,Partner,2,Computers,1661.02
+2026-05-04 03:36:18.025034776,Docking Station,South,Online,8,Accessories,1306.6
+2026-05-04 21:47:48.984700976,Laptop Pro,South,Partner,7,Computers,7005.24
+2026-05-05 15:59:19.944367176,Tablet,West,Retail,13,Computers,6368.4
+2026-05-06 10:10:50.904033384,Printer,South,Retail,11,Office,2428.62
+2026-05-07 04:22:21.863699584,Laptop Pro,East,Online,2,Computers,1894.03
+2026-05-07 22:33:52.823365784,Phone,North,Partner,10,Mobile,5823.63
+2026-05-08 16:45:23.783031992,Headset,South,Online,10,Accessories,799.78
+2026-05-09 10:56:54.742698192,Tablet,South,Online,9,Computers,4230.05
+2026-05-10 05:08:25.702364400,Phone,North,Online,8,Mobile,4801.45
+2026-05-10 23:19:56.662030600,Laptop Pro,North,Partner,8,Computers,7138.06
+2026-05-11 17:31:27.621696800,Monitor 27,West,Online,7,Computers,2104.0
+2026-05-12 11:42:58.581363008,Docking Station,East,Retail,3,Accessories,408.04
+2026-05-13 05:54:29.541029208,Mouse,East,Partner,11,Accessories,346.19
+2026-05-14 00:06:00.500695416,Docking Station,East,Retail,4,Accessories,755.17
+2026-05-14 18:17:31.460361616,Phone,South,Retail,8,Mobile,5192.77
+2026-05-15 12:29:02.420027816,Mouse,West,Partner,1,Accessories,34.62
+2026-05-16 06:40:33.379694024,Laptop Pro,South,Online,5,Computers,3935.43
+2026-05-17 00:52:04.339360224,Printer,North,Online,6,Office,1269.02
+2026-05-17 19:03:35.299026424,Webcam,North,Retail,8,Accessories,467.49
+2026-05-18 13:15:06.258692632,Monitor 27,East,Online,4,Computers,1144.23
+2026-05-19 07:26:37.218358832,Keyboard,North,Partner,8,Accessories,504.72
+2026-05-20 01:38:08.178025040,Monitor 27,South,Retail,4,Computers,1266.16
+2026-05-20 19:49:39.137691240,Printer,West,Partner,10,Office,1985.52
+2026-05-21 14:01:10.097357440,Webcam,South,Partner,9,Accessories,652.9
+2026-05-22 08:12:41.057023648,Laptop Pro,East,Retail,11,Computers,8651.95
+2026-05-23 02:24:12.016689848,Tablet,West,Partner,3,Computers,1263.23
+2026-05-23 20:35:42.976356048,Webcam,South,Online,7,Accessories,431.22
+2026-05-24 14:47:13.936022256,Tablet,South,Online,4,Computers,2168.66
+2026-05-25 08:58:44.895688456,Phone,North,Online,12,Mobile,6659.58
+2026-05-26 03:10:15.855354664,Tablet,East,Partner,10,Computers,5432.56
+2026-05-26 21:21:46.815020864,Phone,North,Partner,12,Mobile,7657.22
+2026-05-27 15:33:17.774687064,Phone,South,Online,6,Mobile,3949.44
+2026-05-28 09:44:48.734353272,Monitor 27,South,Retail,1,Computers,315.71
+2026-05-29 03:56:19.694019472,Webcam,North,Online,10,Accessories,732.24
+2026-05-29 22:07:50.653685680,Printer,West,Retail,10,Office,2032.31
+2026-05-30 16:19:21.613351880,Docking Station,West,Online,3,Accessories,464.91
+2026-05-31 10:30:52.573018080,Keyboard,North,Retail,3,Accessories,164.6
+2026-06-01 04:42:23.532684288,Keyboard,East,Online,5,Accessories,325.04
+2026-06-01 22:53:54.492350488,Headset,North,Online,11,Accessories,792.18
+2026-06-02 17:05:25.452016688,Phone,North,Retail,9,Mobile,6127.25
+2026-06-03 11:16:56.411682896,Phone,North,Online,7,Mobile,3674.79
+2026-06-04 05:28:27.371349096,Docking Station,South,Retail,8,Accessories,1215.69
+2026-06-04 23:39:58.331015304,Laptop Pro,West,Partner,4,Computers,3822.09
+2026-06-05 17:51:29.290681504,Laptop Pro,East,Partner,4,Computers,4358.53
+2026-06-06 12:03:00.250347704,Printer,North,Partner,13,Office,3425.2
+2026-06-07 06:14:31.210013912,Laptop Pro,North,Partner,13,Computers,10325.13
+2026-06-08 00:26:02.169680112,Phone,South,Partner,13,Mobile,9052.04
+2026-06-08 18:37:33.129346320,Monitor 27,North,Partner,6,Computers,2021.79
+2026-06-09 12:49:04.089012520,Phone,North,Online,13,Mobile,7186.02
+2026-06-10 07:00:35.048678720,Mouse,West,Online,9,Accessories,336.63
+2026-06-11 01:12:06.008344928,Keyboard,East,Retail,2,Accessories,123.46
+2026-06-11 19:23:36.968011128,Keyboard,North,Retail,3,Accessories,176.15
+2026-06-12 13:35:07.927677328,Webcam,East,Online,6,Accessories,469.81
+2026-06-13 07:46:38.887343536,Laptop Pro,South,Online,3,Computers,2621.7
+2026-06-14 01:58:09.847009736,Tablet,South,Retail,5,Computers,2042.82
+2026-06-14 20:09:40.806675944,Headset,South,Partner,1,Accessories,98.01
+2026-06-15 14:21:11.766342144,Tablet,West,Retail,3,Computers,1639.79
+2026-06-16 08:32:42.726008344,Keyboard,West,Partner,4,Accessories,270.13
+2026-06-17 02:44:13.685674552,Laptop Pro,East,Online,4,Computers,3603.21
+2026-06-17 20:55:44.645340752,Headset,South,Partner,3,Accessories,277.35
+2026-06-18 15:07:15.605006960,Mouse,West,Retail,9,Accessories,271.09
+2026-06-19 09:18:46.564673160,Webcam,North,Partner,11,Accessories,901.24
+2026-06-20 03:30:17.524339360,Mouse,North,Online,9,Accessories,314.15
+2026-06-20 21:41:48.484005568,Mouse,North,Partner,3,Accessories,115.42
+2026-06-21 15:53:19.443671768,Mouse,East,Partner,10,Accessories,370.12
+2026-06-22 10:04:50.403337968,Laptop Pro,West,Partner,5,Computers,4372.44
+2026-06-23 04:16:21.363004176,Headset,North,Retail,6,Accessories,434.96
+2026-06-23 22:27:52.322670376,Docking Station,East,Retail,13,Accessories,2201.28
+2026-06-24 16:39:23.282336584,Tablet,South,Partner,5,Computers,2041.47
+2026-06-25 10:50:54.242002784,Headset,North,Retail,5,Accessories,424.85
+2026-06-26 05:02:25.201668984,Headset,East,Partner,6,Accessories,513.08
+2026-06-26 23:13:56.161335192,Keyboard,South,Retail,3,Accessories,160.46
+2026-06-27 17:25:27.121001392,Monitor 27,South,Online,7,Computers,2554.89
+2026-06-28 11:36:58.080667592,Phone,West,Retail,12,Mobile,8313.84
+2026-06-29 05:48:29.040333800,Webcam,West,Partner,7,Accessories,476.02
+2026-06-30 00:00:00.000000000,Webcam,West,Online,3,Accessories,245.73
